@@ -1,0 +1,96 @@
+div {
+    width: auto;
+    height: auto;
+    margin: 5px;
+    padding: 8px;
+}
+
+
+#title1 {
+    font-size: 36px;
+    Text-align: center;
+    font-family: Verdana, sans-serif;
+    background-color: purple;
+    color: white;
+    font-style: Italic;
+}
+
+
+#title2 {
+    font-size: 24px;
+    Text-align: center;
+    font-family: Verdana, sans-serif;
+    background-color: lightgray;
+    color: black;
+    font-style: Italic;
+}
+
+
+#title3 {
+    font-size: 24px;
+    Text-align: left;
+    font-family: Arial, sans-serif;
+    color: black;
+    font-style: Italic;
+}
+
+
+.name {
+    font-weight: bold;
+}
+
+
+h1 {
+    color:#660099;
+    text-align: center;
+}
+
+
+h2 {
+    color: Blue;
+    text-align: center;
+}
+
+
+p {
+    color: #0c8e05;
+    text-align: left;
+    font-weight: bold;
+}
+
+
+p2 {
+    color: blue;
+    text-align: left;
+    font-weight: bold;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    text-align: center;
+}
+
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+
+th {
+    background-color: lightgray;
+}
